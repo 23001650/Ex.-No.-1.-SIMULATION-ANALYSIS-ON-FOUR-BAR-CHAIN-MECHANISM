@@ -53,10 +53,10 @@
 
 
 ## Output:
+![Alt text](<Screenshot 2024-01-02 191239.png>)
 
 
-### Name:
-### Register Number: 
-
+### Name: SUNIL KUMAR T
+### Register Number: 23001650
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
